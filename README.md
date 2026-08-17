@@ -1,6 +1,6 @@
 # Gestion-de-estudiantes
 
-Le comparto el link de Github
+Le comparto el link de Github: https://github.com/janjanultimate-cell/Gestion-de-estudiantes.git
 
 
 Realizamos la instalacion de venv
