@@ -19,5 +19,6 @@ Instalamos Jupyter y lo iniciamos
 <img width="1606" height="868" alt="imagen" src="https://github.com/user-attachments/assets/e8512708-1fcc-4f25-bb50-79262b27e172" />
 
 
+<img width="1744" height="829" alt="imagen" src="https://github.com/user-attachments/assets/cc61e25b-9b2c-4447-8f30-0a4da305933e" />
 
 
